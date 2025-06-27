@@ -7,6 +7,8 @@ We have two main Repos:
 - Microcontroller
   - Code for STM32, including `.ioc` file
   - Documentation for Hardware, 3D Printing, Electronics and building
+  - Files for 3D Print
+  - Files for Gerber coming tomorrow!
   - [Visit the Microcontroller Repo](https://www.github.com/starklicht/starklicht-stm32)
 - App
   - Contains the flutter app for iOS and Android
