@@ -5,6 +5,7 @@
 We have two main Repos:
 
 - Microcontroller
+  - Code for STM32, including `.ioc` file
   - Documentation for Hardware, 3D Printing, Electronics and building
   - [Visit the Microcontroller Repo](github.com/starklicht/starklicht-stm32)
 - App
