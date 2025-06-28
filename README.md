@@ -1,5 +1,32 @@
 # Welcome to the Starklicht GitHub Page 💡
 
+## Build Cost
+
+# 🛠️ Starklicht Build – Estimated Cost Breakdown
+
+| **Category**              | **Details / Notes**                                        | **Estimated Cost (USD)** |
+|---------------------------|-------------------------------------------------------------|---------------------------|
+| **PCBs**                  | Main controller, driver boards, etc.                        | ~$100                    |
+| **Electronic Components** | LED chip, power supply, heatsink, fan                       | ~$65                     |
+| **3D Printed Parts**      | Filament for case and mounting parts                        | ~$7                      |
+| **Shipping & Taxes**      | Depends on your region and import fees                      | ~$27                     |
+|                           |                                                             |                           |
+| **🔢 Estimated Total**     | *(Before time investment)*                                  | **~$199**                |
+
+---
+
+## 🔍 A Few Important Notes
+
+- **Economies of Scale**  
+  Buying components and PCBs in bulk can *significantly reduce* the cost per unit.
+
+- **Time Investment Not Included**  
+  This estimate does **not** account for the time spent sourcing, soldering, or assembling. Expect a hands-on, rewarding process!
+
+- **Component Flexibility**  
+  This is an open-source project. You’re free to substitute parts depending on what you have or prefer—which can impact final costs.
+
+
 ## Repos
 
 We have two main Repos:
