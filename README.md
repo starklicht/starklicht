@@ -12,6 +12,8 @@ We have two main Repos:
 - App
   - Contains the flutter app for iOS and Android
   - [Visit the App Repo](https://www.github.com/starklicht/starklicht-app)
+- Python API
+  - Coming soon...   
 
 
 ## About the Project
