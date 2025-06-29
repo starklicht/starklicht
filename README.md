@@ -9,9 +9,11 @@ We have two main Repos:
   - Documentation for Hardware, 3D Printing, Electronics and building
   - Download 3D Print and PCBs at [Cults3D](https://cults3d.com/de/modell-3d/gadget/starklicht)
   - [Visit the Microcontroller Repo](https://www.github.com/starklicht/starklicht-stm32)
+  - [Documentation](https://github.com/starklicht/starklicht-stm32/wiki)
 - App
   - Contains the flutter app for iOS and Android
   - [Visit the App Repo](https://www.github.com/starklicht/starklicht-app)
+  - [Documentation](https://github.com/starklicht/starklicht-app/wiki)
 - Python API
   - 🆕 [Visit the Python API Repo](https://www.github.com/starklicht/starklicht-python-api) 
 
