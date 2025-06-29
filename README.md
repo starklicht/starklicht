@@ -13,7 +13,7 @@ We have two main Repos:
   - Contains the flutter app for iOS and Android
   - [Visit the App Repo](https://www.github.com/starklicht/starklicht-app)
 - Python API
-  - 🆕 [Visit the Python API Repo](https://www.github.com/starklicht/starklicht-app/starklicht-python-api) 
+  - 🆕 [Visit the Python API Repo](https://www.github.com/starklicht/starklicht-python-api) 
 
 
 ## About the Project
